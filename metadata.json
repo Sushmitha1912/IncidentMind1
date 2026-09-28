@@ -1,0 +1,6 @@
+{
+  "name": "IncidentMind - AI SRE Post-Mortem Learning Agent",
+  "description": "Production AI SRE Incident Response and Post-Mortem Biomimetic Memory Agent with Vectorize Hindsight (Retain, Recall, Reflect).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
